@@ -841,13 +841,13 @@ footer .credits a {
 
 @media (min-width: 200px) {
   .lead-img img {
-    width: 300px;
+    width: 310px;
   }
 }
 
 @media (min-width: 400px) {
   .lead-img img {
-    width: 350px;
+    width: 360px;
   }
 }
 
