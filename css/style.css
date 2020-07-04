@@ -839,9 +839,25 @@ footer .credits a {
   border-radius: .3rem;
 }
 
+@media (min-width: 200px) {
+  .lead-img img {
+    width: 300px;
+  }
+}
+
+@media (min-width: 400px) {
+  .lead-img img {
+    width: 350px;
+  }
+}
+
 @media (min-width: 577px) {
   .counter-box {
     margin-bottom: 1.8rem;
+  }
+
+  .lead-img img {
+    width: 600px;
   }
 }
 
