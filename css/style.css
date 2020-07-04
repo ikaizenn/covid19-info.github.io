@@ -857,8 +857,9 @@ footer .credits a {
   }
 
   .lead-img img {
-    width: 600px;
+    width: 900px;
   }
+
 }
 
 @media (min-width: 767px) {
